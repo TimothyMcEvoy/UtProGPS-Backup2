@@ -1,0 +1,3412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\timmy\OneDrive\Documents\UtPro-GPS\UtPro-GPS.kicad_sch</source>
+    <date>2/9/2023 11:25:13 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev>V2</rev>
+        <date/>
+        <source>UtPro-GPS.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev/>
+        <date/>
+        <source>connectionheaders.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev/>
+        <date/>
+        <source>bandmixer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev/>
+        <date/>
+        <source>clock-inout.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev/>
+        <date/>
+        <source>CSMO.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/">
+      <title_block>
+        <title/>
+        <company>Tim McEvoy/Virginia Tech</company>
+        <rev/>
+        <date/>
+        <source>q-out-analog.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>I-OUT-ANALOG.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C12">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>999d92d1-b1a1-41b5-b9a8-a52d0ba3c886</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80548ef6-b9a3-4565-9ecf-2baafe301404</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b548070c-9442-43b4-8d1a-6844744d9ea2</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dae4846-af42-4c14-9712-b0dc642e0db1</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f245298-b0fc-4c47-bcb7-a9cb513305fe</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b88b50a-3a56-4788-a724-a24bb5480d26</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3727c482-3b3f-44d1-981a-e91260391029</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48e9471f-2642-43c7-9fe7-8566d5884a94</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3f8b99e-8890-41cb-921a-3e1cff208492</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a24c20a-2ae6-4993-a45c-7ad61ccabcd9</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d899218e-61a2-4161-9488-3f5627f1d566</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d125ea8c-2d22-4281-836a-6cd0589d83ff</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>15 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8b6293d-66bb-4176-b5d3-93e22b7d6ded</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>750 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e81d6583-2455-47ba-aa70-cd2ca1e1fa23</tstamps>
+    </comp>
+    <comp ref="J27">
+      <value>PEC03SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02477c7b-ad02-4245-952e-ad9f9d2eabad</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>15K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cc3b98b-d046-41aa-8b69-0c351788c949</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcc3a141-9412-4974-abee-d36ff75214bf</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8e6f3e-31ea-44e6-9159-ad1fb3fb6116</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f98f556-184f-4594-b253-eaa03498c70e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MAX2771ETI+</value>
+      <footprint>QFN50P500X500X80-29N</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">NEXT-GENERATION GLOBAL NAVIGATIO</field>
+        <field name="MF">Maxim Integrated</field>
+        <field name="MP">MAX2771ETI+</field>
+        <field name="PACKAGE">TQFN-28 Maxim</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="MAX2771ETI_" part="MAX2771ETI+" description=""/>
+      <property name="MP" value="MAX2771ETI+"/>
+      <property name="PACKAGE" value="TQFN-28 Maxim"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="PRICE" value="None"/>
+      <property name="MF" value="Maxim Integrated"/>
+      <property name="DESCRIPTION" value="NEXT-GENERATION GLOBAL NAVIGATIO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b4750ea-3b72-473f-b700-d11888298f54</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>MAX32625PICO</value>
+      <footprint>MAX32625PICO</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX32625PICO.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX32625PICO#</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max32625pico/maxim-integrated?region=nac</field>
+        <field name="Description">Development Boards &amp; Kits - ARM MAXDAP PROGRAMMING ADAPTER MODULE</field>
+        <field name="Height">3</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX32625PICO#</field>
+        <field name="Mouser Part Number">700-MAX32625PICO#</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX32625PICO?qs=BZBei1rCqCCjQLuDZBm8oA%3D%3D</field>
+      </fields>
+      <libsource lib="MAX32625PICO#" part="MAX32625PICO#" description="Development Boards &amp; Kits - ARM MAXDAP PROGRAMMING ADAPTER MODULE"/>
+      <property name="Description" value="Development Boards &amp; Kits - ARM MAXDAP PROGRAMMING ADAPTER MODULE"/>
+      <property name="Height" value="3"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX32625PICO#"/>
+      <property name="Mouser Part Number" value="700-MAX32625PICO#"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX32625PICO?qs=BZBei1rCqCCjQLuDZBm8oA%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX32625PICO#"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max32625pico/maxim-integrated?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="UtPro-GPS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a872e44e-8c87-478e-8f01-7f3d97c56fd1</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10 UF</value>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>2f7353ae-67cf-4bce-8872-69f384995047</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10 UF</value>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>b6e04a62-ca3b-45c3-84ba-1afe24984211</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>edc14adc-5bf2-46d7-a4f3-74bba1817b0f</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>b4a2d8af-57f1-415c-acd7-af5026785b91</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.01 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>35c0d89f-b83e-48f2-853c-f3d4c51130e7</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.01 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>80ab4c66-7f0e-4d62-943b-0d7d749caf95</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>9d494329-c6d8-4a01-b2da-2615783c6b4a</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>c07a6df4-e8b3-489b-ac30-d31a3bb583d8</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>e9e7d5c2-b1d4-4d45-a055-85d54c1b495c</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>464258f5-09d2-4f7c-958a-ae4dbb23920a</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>5e43c46a-5d95-4799-8f71-d226a261879a</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>459d6a6f-a9d0-4513-9ec0-9a5432a0c697</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>d45fa820-2104-414c-8408-b03d57a852c4</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>PEC03SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>6b4b5142-8af5-4086-8daf-f8621f3ea8f8</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>PEC03SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>05d55c78-a82d-4b6d-bd2d-4f2f46f5aa14</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>49f22f54-2338-49fa-b4cc-6bf1c3a11561</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>b05a7966-404f-47fc-8776-648ea6629fa6</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>249c03f1-1735-4efd-b1a0-edbb1b101f11</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>57bda037-85e3-45b1-baf3-9abd32df6142</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>18994a34-5693-4ce5-930d-81f00af79ff7</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>0c3572bd-8b30-4b2a-81c9-7b28cb85beb3</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>663d0013-01e5-44bc-9794-f46f04587982</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>28559a6f-e051-43f1-93ce-196190c89ed2</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>4a5f48bd-0c1b-482b-bfab-e1a0cc6d57c0</tstamps>
+    </comp>
+    <comp ref="J26">
+      <value>PEC05DAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>98d4b74c-26e1-48dc-8ccd-616e433a23a5</tstamps>
+    </comp>
+    <comp ref="J28">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>ae7b2350-ea0f-4291-98d9-4617b0ef04ca</tstamps>
+    </comp>
+    <comp ref="J29">
+      <value>PEC02SAAN</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>8ebb2fb1-2321-4b10-bf91-b1ce3ed663ed</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>d23ab96a-097c-4751-8130-14f92aa639dc</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MAX8510EXK29T</value>
+      <footprint>SOT65P210X110-5N</footprint>
+      <libsource lib="MAX8510EXK29T" part="MAX8510EXK29T" description=""/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>616677a9-02fc-4caa-a9b7-f225e60f6f01</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MAX8510EXK29T</value>
+      <footprint>SOT65P210X110-5N</footprint>
+      <libsource lib="" part="MAX8510EXK29T_1" description=""/>
+      <property name="Sheetname" value="Connection headers"/>
+      <property name="Sheetfile" value="connectionheaders.kicad_sch"/>
+      <sheetpath names="/Connection headers/" tstamps="/c674af45-e305-435b-b18f-3fe8e5d219eb/"/>
+      <tstamps>668bec5a-00b1-4f18-b159-17eff6ea72de</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>6800 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>964313d0-4fbd-4329-a59b-836df7f3a77f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>1ed019ea-d33d-416f-9528-a7bba1331738</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>6800 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>1b169ca6-9c43-4c3c-8544-5b648583ec67</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>6800 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>963d64ff-c88e-42dc-9d9c-8a134d5b2928</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>76ad5af9-ff45-44c8-9ba7-739c0071ea9e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>d4cd9dde-6529-47ca-959a-184857f08c2a</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>af7ff166-7423-4f51-8589-e0e34d278c43</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>db111747-8b3b-4022-90c3-33fb32da6f60</tstamps>
+    </comp>
+    <comp ref="C65">
+      <value>1.1 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>cb32cfdb-5b08-4eac-8ddb-83c4d63d07c2</tstamps>
+    </comp>
+    <comp ref="C66">
+      <value>1.7 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>e752d1c1-a3b1-45c6-9839-cc2a76f24d84</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>f84f0a8a-8685-41ef-9d2c-fe2f1955abee</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>910ee357-13d3-41bb-9109-96c787e33800</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>7dca977a-ec67-49d2-9d08-72c09acfb515</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>32725ab5-92f1-4d0c-8624-6050d61ed309</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>142-0701-201</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>0f9fa481-4cb5-445c-aaa9-e21c006d2041</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>142-0701-201</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>f0daa608-8bbf-47db-b069-d23ac65a4214</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>8.4 NH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>300e3265-572f-4fb3-932e-76c0e3aa32fe</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>5.6 NH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>4ee8333f-765a-4ca1-b709-0c20f9ab8be8</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>1f549cd1-87bf-46d6-a575-8554f23fef2d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>9bec6974-eb35-4a43-82a6-b3af8c0b26e1</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>a8d527ce-5492-4790-8d75-04fa7cd1b785</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>ff2b1d9c-85a7-4d82-a68b-844fa48478ed</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>5af54e86-1c09-499b-b4c5-8caa925f702d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>2bb3bdab-5a0d-4494-be16-463c2068de09</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>002ef87b-006c-44c6-b100-a2f11c6d0568</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>91f0aadc-60a7-4b1a-995e-f6834a5b1cee</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>b74d9627-31a3-4062-a2d2-c576ac611ced</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>29c79163-a515-400f-8225-94347c872d14</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>8170c015-1b8d-4e30-ae63-246aa417bcd6</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>be5f8752-4702-4391-a770-0c52e0871d21</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>8f29b6b7-027b-4813-aa4c-07a9f03857ee</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>ad638b2a-849b-42cb-aae8-821b87f747d4</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>bc1ccb3d-8379-4832-8446-8ed8933d5708</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>0a02a326-4cbd-4a9c-91fe-c81b3151c982</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>77dfa16a-90d9-4897-aa6f-d9c573961b9e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>709ad22d-500b-410a-8b16-235ee5ece097</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>862be692-739d-4489-af2a-28896bd4c4af</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SF2208E</value>
+      <footprint>SF2208E</footprint>
+      <datasheet>https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</datasheet>
+      <fields>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">1.38</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SF2208E</field>
+        <field name="Mouser Part Number">81-SF2208E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D</field>
+      </fields>
+      <libsource lib="" part="SF2208E_1" description="Signal Conditioning"/>
+      <property name="Description" value="Signal Conditioning"/>
+      <property name="Height" value="1.38"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="SF2208E"/>
+      <property name="Mouser Part Number" value="81-SF2208E"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>2a55e051-25c5-4c23-ab0d-5626d1035298</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SF2208E</value>
+      <footprint>SF2208E</footprint>
+      <datasheet>https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</datasheet>
+      <fields>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">1.38</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SF2208E</field>
+        <field name="Mouser Part Number">81-SF2208E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D</field>
+      </fields>
+      <libsource lib="SF2208E" part="SF2208E" description="Signal Conditioning"/>
+      <property name="Description" value="Signal Conditioning"/>
+      <property name="Height" value="1.38"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="SF2208E"/>
+      <property name="Mouser Part Number" value="81-SF2208E"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>ea99baba-1188-4d32-a55e-ac9b10ee1a11</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SAFFB1G57KE0F0A</value>
+      <footprint>SAFFB1G57KE0F0A</footprint>
+      <datasheet>https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</datasheet>
+      <fields>
+        <field name="Description">SAFFB1G57KE0F0A</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFFB1G57KE0F0A</field>
+      </fields>
+      <libsource lib="SAFFB1G57KE0F0A" part="SAFFB1G57KE0F0A" description="SAFFB1G57KE0F0A"/>
+      <property name="Description" value="SAFFB1G57KE0F0A"/>
+      <property name="Height" value="0.5"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="SAFFB1G57KE0F0A"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>7324df6a-ce7e-45a0-b3bd-f4e227f1a4a5</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SAFFB1G57KE0F0A</value>
+      <footprint>SAFFB1G57KE0F0A</footprint>
+      <datasheet>https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</datasheet>
+      <fields>
+        <field name="Description">SAFFB1G57KE0F0A</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFFB1G57KE0F0A</field>
+      </fields>
+      <libsource lib="" part="SAFFB1G57KE0F0A_1" description="SAFFB1G57KE0F0A"/>
+      <property name="Description" value="SAFFB1G57KE0F0A"/>
+      <property name="Height" value="0.5"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="SAFFB1G57KE0F0A"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Band and Mixer input output"/>
+      <property name="Sheetfile" value="bandmixer.kicad_sch"/>
+      <sheetpath names="/Band and Mixer input output/" tstamps="/58263c37-206f-48fd-a21b-7777b1131cae/"/>
+      <tstamps>ddbd95e4-a272-4098-a757-45d12b3074e8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10 UF</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>9c4ce057-dca1-4c22-8168-84603525e4b1</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.01 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>7666365c-2f8c-4dc6-90b3-d4a967e51bdc</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.01 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>f362c1ff-f555-40f5-980b-ed41fcadbb4a</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>0.01 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>73b92c04-a531-4828-bb3c-5b75c19bfe9f</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.01UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>f5d46e2d-eb89-4909-bb57-5f8e324d3f6a</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>b45fa324-3ab8-4750-8b67-35c5f33b7105</tstamps>
+    </comp>
+    <comp ref="C64">
+      <value>100 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>03a18e09-3ec9-4397-9e54-742106808293</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>142-0701-201</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>359d57b8-7d06-461c-a124-2b158c63ab35</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>142-0701-201</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>9171948d-b2d6-45e2-91e3-b9ad1a4e7568</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>142-0701-201</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>be31a3bf-4442-4bda-b023-52d1b5d82495</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>211b5376-0db8-410c-a980-85c7edb174b0</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>0072f8e9-6aed-4e52-b65d-ddc282d56b7c</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>22.1</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>216119e2-671d-4200-8673-1b075f309350</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>IT3200C_16.368MHZ</value>
+      <libsource lib="" part="142-0701-201_1" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>adad65a0-bd1a-4f95-9f43-1ae66ccbb280</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>RSX-5_16.368MHZ</value>
+      <libsource lib="PEC02SAAN" part="PEC02SAAN" description="CONN HEADER VERT 2POS 2.54MM"/>
+      <property name="Description" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Clock input output"/>
+      <property name="Sheetfile" value="clock-inout.kicad_sch"/>
+      <sheetpath names="/Clock input output/" tstamps="/889a3275-e210-43c0-90da-acc2f6c19ee9/"/>
+      <tstamps>cb117172-647b-4b50-9ec7-f530475a59cc</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>10 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>bcaa9e01-54d1-408f-9e0c-8906dfa74ead</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>10 PF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>f18074ae-0d2b-4975-b3e7-e896e7e1ead1</tstamps>
+    </comp>
+    <comp ref="C58">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>72a62489-0010-4fc7-ba1d-86144d74743f</tstamps>
+    </comp>
+    <comp ref="C59">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>fccbaa93-66f3-4698-b16c-e1ac2dbcbdc7</tstamps>
+    </comp>
+    <comp ref="C60">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>85fdcffd-bac1-4ba2-8f08-fc0fd2af12bd</tstamps>
+    </comp>
+    <comp ref="C61">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>5412d640-d23d-4006-9a8f-596cb6f56d57</tstamps>
+    </comp>
+    <comp ref="C62">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>29880f69-6719-49dd-a7db-f79af9714c59</tstamps>
+    </comp>
+    <comp ref="C63">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>4b09a774-2f7f-424f-b0e0-d80ac5edf23a</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>68e274bd-00d4-43c5-a53d-9c44fcd5b659</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>4645e193-614c-47e0-b190-ed35b35bcfc5</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>b82fc0b2-181d-46e7-9081-eab67e8c52a5</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>5929973f-8a1c-4c30-9d88-c75fd99eebdf</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>bc66d98b-2e42-4dad-b759-9bc720ccf58d</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>84572c21-b200-4609-954f-573dc9a4fd05</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>33f3826c-1368-4ef6-bd83-3b54b2b6332a</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>bb228338-f127-44b3-8671-ec3ff171e281</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>ece52d9b-6d2a-4e1b-a750-e5b45bb7e347</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>f2ded447-f69c-4f7b-a3a1-400c06134815</tstamps>
+    </comp>
+    <comp ref="R74">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>67e86c60-d8e9-4a53-8dcc-793835a3fd09</tstamps>
+    </comp>
+    <comp ref="R76">
+      <value>47.5</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>2973520b-c4b5-4287-bb16-7a0edcc8e5c5</tstamps>
+    </comp>
+    <comp ref="T3">
+      <value>ADTT4-1+</value>
+      <libsource lib="" part="142-0701-201_1" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>806b2ead-dd00-4cb5-b33e-68e879d59c8d</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>MAX4444ESE</value>
+      <footprint>SOIC127P600X175-16N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-341081.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX4444ESE+</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac</field>
+        <field name="Description">Differential-to-Single Receiver SOIC16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX4444ESE+</field>
+        <field name="Mouser Part Number">700-MAX4444ESE</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D</field>
+      </fields>
+      <libsource lib="MAX4444ESE+" part="MAX4444ESE+" description="Differential-to-Single Receiver SOIC16"/>
+      <property name="Description" value="Differential-to-Single Receiver SOIC16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX4444ESE+"/>
+      <property name="Mouser Part Number" value="700-MAX4444ESE"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX4444ESE+"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="CONTINUOUS SPECTRUM MONITORING OUTPUT"/>
+      <property name="Sheetfile" value="CSMO.kicad_sch"/>
+      <sheetpath names="/CONTINUOUS SPECTRUM MONITORING OUTPUT/" tstamps="/387a026d-575c-47a5-b545-5ddaaa1cf783/"/>
+      <tstamps>90c4938c-4f3c-4631-956c-2fd6d1579c2a</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>b26709b8-6df8-4d94-8a67-dc1d7b3a1af5</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>2c59bf60-b1ab-46f7-9bbe-8fba6e83a87e</tstamps>
+    </comp>
+    <comp ref="C52">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>2eb9b475-83a0-4a86-9645-258c6f2851f8</tstamps>
+    </comp>
+    <comp ref="C53">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>1fe7e06f-7915-41cd-86e7-3acddc52b91c</tstamps>
+    </comp>
+    <comp ref="C54">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>40230883-48cc-4439-8b96-72b7091aec65</tstamps>
+    </comp>
+    <comp ref="C55">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>341e85c0-d019-42dd-9a76-e4d63e882c02</tstamps>
+    </comp>
+    <comp ref="C56">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>35940f62-a116-4d44-b3cb-632bebbd66a3</tstamps>
+    </comp>
+    <comp ref="C57">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>7bd7d28e-1528-4cb1-b996-f4ffd7a782e7</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>ef1f5eac-e76b-4080-8001-bf9fcc4acc99</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>f9b9af66-f6be-4b0e-b824-314aa767739c</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>96265aa6-ad55-4c0e-af12-5353a38556ca</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>bd0aaf84-f386-447c-ab54-3db4be055b4e</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>12593fdc-1dbe-4cb6-b6a5-2c59f95b538a</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>3ec4f213-bacb-4b82-8657-a8209d87c471</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>58ee77f9-495c-4e33-b45e-b97409dba410</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>ffcfc65f-817b-43ee-9bd3-34ea83a058f2</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>63f902ae-d982-4146-bcde-ecb929fa8240</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>8e14ae67-f812-42ab-9610-5bc062b86824</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>f50f4686-8aa4-42d0-b0bc-d15ca4afb7f1</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>dc854e1d-a7fa-422c-aaf0-e0188d12521c</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>7a5da32c-56bf-4f37-924e-7aab40c8c57e</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>93aaf0a9-0192-4433-980f-e31050487cd7</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>ed3aea1e-90aa-434f-94aa-ad6865ecea0c</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>86b8e813-2bef-4415-9fd3-9a033a4b67bb</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>5ae0ed90-24fa-4024-93f0-0f5c32d3cb54</tstamps>
+    </comp>
+    <comp ref="R75">
+      <value>47.5</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>74aeaf18-d11c-41fb-89d4-da5b935ede22</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>ADTT4-1+</value>
+      <libsource lib="" part="142-0701-201_1" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>85ae1e88-c28d-43d9-aecf-672944e4e574</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>MAX4444ESE</value>
+      <footprint>SOIC127P600X175-16N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-341081.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX4444ESE+</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac</field>
+        <field name="Description">Differential-to-Single Receiver SOIC16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX4444ESE+</field>
+        <field name="Mouser Part Number">700-MAX4444ESE</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D</field>
+      </fields>
+      <libsource lib="MAX4444ESE+" part="MAX4444ESE+" description="Differential-to-Single Receiver SOIC16"/>
+      <property name="Description" value="Differential-to-Single Receiver SOIC16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX4444ESE+"/>
+      <property name="Mouser Part Number" value="700-MAX4444ESE"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX4444ESE+"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="Q_OUT_ANALOG"/>
+      <property name="Sheetfile" value="q-out-analog.kicad_sch"/>
+      <sheetpath names="/Q_OUT_ANALOG/" tstamps="/b73f2d29-3ccf-417a-9a4c-3c9adb37f9de/"/>
+      <tstamps>97503a39-c15d-4894-8223-cfb9613cce7c</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>35aa32bd-319d-4663-93cc-0223b6bf1bd0</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>377ef21a-915d-453e-b257-4139ecd0c3bb</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>66716234-00f6-4f8e-b50d-22c225673635</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>OPEN</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>5364ff36-5b1d-4d6e-ba2f-d6e8fd85c8fb</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>90a3df91-b89e-4d59-9b00-20cdbd86e814</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>9c68ebad-0848-4c7d-9674-e133333bc8a9</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>3dfa3f1f-ea30-4e84-8167-aa804209359e</tstamps>
+    </comp>
+    <comp ref="C51">
+      <value>0.1 UF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>d6718b74-c3e2-4ad1-a476-3a02dc26bec7</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>142-0701-801</value>
+      <footprint>1420701201</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+      </fields>
+      <libsource lib="142-0701-201" part="142-0701-201" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Height" value="9.52"/>
+      <property name="Manufacturer_Name" value="Cinch Connectivity Solutions"/>
+      <property name="Manufacturer_Part_Number" value="142-0701-201"/>
+      <property name="Mouser Part Number" value="530-142-0701-201"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D"/>
+      <property name="Arrow Part Number" value="142-0701-201"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>739c33e7-8ad0-4e5e-9b6b-4e0d8760ace6</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>9c887666-8db1-49b9-963f-c8c6a4373ae7</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>bfcb86db-c2f5-4d2f-86e8-bcf2957d0b12</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>643ada60-efb9-4c69-8f8b-d89c37e9b8eb</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>0decf3f8-d589-4c84-a686-593445a2c4bb</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>a0015219-12f3-40c6-bbd5-3b571a9b060f</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>83c2a8b2-b814-4963-b754-16dc1f37e4dd</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>911eeeee-f81f-4cfe-aeb8-bb0d2e010508</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>6f23a729-843e-4afb-bc5e-4658dbb1e710</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>3f34f781-cd95-4825-8eb4-c455be0754f5</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>4992f24f-8c79-4e51-9701-bc8cff307a7a</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>4fc7ddc6-a161-4a97-8252-0a451fdc47a1</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>5c6eb744-239b-498d-8341-6a3431e13e8a</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>5282e78a-0d59-471f-9be7-285b7ba955a7</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>341ea0e6-49bb-4598-9bd3-f020470425d3</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>fa22e140-8f15-4efa-8141-6011eb229b17</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>OPEN</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>cbb077c5-5271-478d-a911-a9516773b2ee</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>47.5</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>d5ec9a2a-8d33-4b25-b134-aa194f8a8550</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>ADTT4-1+</value>
+      <libsource lib="" part="142-0701-201_1" description="JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM"/>
+      <property name="Description" value=""/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>342466b9-e6fc-4f08-9f68-73f4241ef563</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>MAX4444ESE</value>
+      <footprint>SOIC127P600X175-16N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-341081.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MAX4444ESE+</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac</field>
+        <field name="Description">Differential-to-Single Receiver SOIC16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX4444ESE+</field>
+        <field name="Mouser Part Number">700-MAX4444ESE</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D</field>
+      </fields>
+      <libsource lib="MAX4444ESE+" part="MAX4444ESE+" description="Differential-to-Single Receiver SOIC16"/>
+      <property name="Description" value="Differential-to-Single Receiver SOIC16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX4444ESE+"/>
+      <property name="Mouser Part Number" value="700-MAX4444ESE"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D"/>
+      <property name="Arrow Part Number" value="MAX4444ESE+"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value="I_OUT_ANALOG"/>
+      <property name="Sheetfile" value="I-OUT-ANALOG.kicad_sch"/>
+      <sheetpath names="/I_OUT_ANALOG/" tstamps="/2f3d16a9-f9bf-4e76-86d0-9c2068a9496a/"/>
+      <tstamps>d89edee3-c4cd-4c5f-b094-e07b0484fb6d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="142-0701-201_1">
+      <description>JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</description>
+      <fields>
+        <field name="Reference">Y?</field>
+        <field name="Value">IT3200C_16.368MHZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="NC" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="OUT" type="passive"/>
+        <pin num="5" name="NC" type="passive"/>
+        <pin num="6" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="MAX8510EXK29T_1">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">MAX8510EXK29T</field>
+        <field name="Footprint">SOT65P210X110-5N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN2" type="input"/>
+        <pin num="2" name="GND2" type="power_in"/>
+        <pin num="3" name="~{SHDN}2" type="bidirectional"/>
+        <pin num="4" name="BP2" type="bidirectional"/>
+        <pin num="5" name="OUT2" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="SAFFB1G57KE0F0A_1">
+      <description>SAFFB1G57KE0F0A</description>
+      <docs>https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</docs>
+      <fields>
+        <field name="Reference">U5</field>
+        <field name="Value">SAFFB1G57KE0F0A_1</field>
+        <field name="Footprint">SAFFB1G57KE0F0A</field>
+        <field name="Datasheet">https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</field>
+        <field name="Description">SAFFB1G57KE0F0A</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFFB1G57KE0F0A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="SF2208E_1">
+      <description>Signal Conditioning</description>
+      <docs>https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</docs>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">SF2208E_1</field>
+        <field name="Footprint">SF2208E</field>
+        <field name="Datasheet">https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</field>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">1.38</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SF2208E</field>
+        <field name="Mouser Part Number">81-SF2208E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CASE_GROUND_1" type="passive"/>
+        <pin num="2" name="INPUT" type="passive"/>
+        <pin num="3" name="CASE_GROUND_2" type="passive"/>
+        <pin num="4" name="CASE_GROUND_3" type="passive"/>
+        <pin num="5" name="OUTPUT" type="passive"/>
+        <pin num="6" name="CASE_GROUND_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="142-0701-201" part="142-0701-201">
+      <description>JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">142-0701-201</field>
+        <field name="Footprint">1420701201</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f0edfbb4fd3b9d8af3607c026aa358ce.pdf</field>
+        <field name="Description">JOHNSON - CINCH CONNECTIVITY - 142-0701-201 - RF COAXIAL, SMA, STRAIGHT JACK, 50OHM</field>
+        <field name="Height">9.52</field>
+        <field name="Manufacturer_Name">Cinch Connectivity Solutions</field>
+        <field name="Manufacturer_Part_Number">142-0701-201</field>
+        <field name="Mouser Part Number">530-142-0701-201</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-201?qs=sh18mOF39qY1deZe7h2WsQ%3D%3D</field>
+        <field name="Arrow Part Number">142-0701-201</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/142-0701-201/cinch-connectivity-solutions?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX2771ETI_" part="MAX2771ETI+">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX2771ETI+</field>
+        <field name="Footprint">QFN50P500X500X80-29N</field>
+        <field name="MP">MAX2771ETI+</field>
+        <field name="PACKAGE">TQFN-28 Maxim</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="PRICE">None</field>
+        <field name="MF">Maxim Integrated</field>
+        <field name="DESCRIPTION">NEXT-GENERATION GLOBAL NAVIGATIO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CPOUT" type="output"/>
+        <pin num="2" name="VCCCP" type="power_in"/>
+        <pin num="3" name="XTAL" type="input"/>
+        <pin num="4" name="CLKOUT" type="output"/>
+        <pin num="5" name="ADC_CLKIN" type="input"/>
+        <pin num="6" name="VCCD" type="power_in"/>
+        <pin num="7" name="SDATA" type="bidirectional"/>
+        <pin num="8" name="SCLK" type="input"/>
+        <pin num="9" name="CSN" type="input"/>
+        <pin num="10" name="Q1" type="output"/>
+        <pin num="11" name="Q0" type="output"/>
+        <pin num="12" name="I0" type="output"/>
+        <pin num="13" name="I1" type="output"/>
+        <pin num="14" name="VCCADC" type="power_in"/>
+        <pin num="15" name="ANAIPOUT" type="output"/>
+        <pin num="16" name="ANAINOUT" type="output"/>
+        <pin num="17" name="LD" type="output"/>
+        <pin num="18" name="SHDN" type="input"/>
+        <pin num="19" name="LNAIN_HI" type="input"/>
+        <pin num="20" name="LNAIN_LO" type="input"/>
+        <pin num="22" name="VCCRF" type="power_in"/>
+        <pin num="23" name="LNAOUT_LO" type="output"/>
+        <pin num="24" name="LNAOUT_HI" type="output"/>
+        <pin num="25" name="MIXIN_HI" type="input"/>
+        <pin num="26" name="MIXIN_LO" type="input"/>
+        <pin num="27" name="VCCIF" type="power_in"/>
+        <pin num="28" name="VCCVCO" type="power_in"/>
+        <pin num="29" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX32625PICO#" part="MAX32625PICO#">
+      <description>Development Boards &amp; Kits - ARM MAXDAP PROGRAMMING ADAPTER MODULE</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX32625PICO.pdf</docs>
+      <fields>
+        <field name="Reference">U11</field>
+        <field name="Value">MAX32625PICO</field>
+        <field name="Footprint">MAX32625PICO</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX32625PICO.pdf</field>
+        <field name="Description">Development Boards &amp; Kits - ARM MAXDAP PROGRAMMING ADAPTER MODULE</field>
+        <field name="Height">3</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX32625PICO#</field>
+        <field name="Mouser Part Number">700-MAX32625PICO#</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX32625PICO?qs=BZBei1rCqCCjQLuDZBm8oA%3D%3D</field>
+        <field name="Arrow Part Number">MAX32625PICO#</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max32625pico/maxim-integrated?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AIN_0" type="passive"/>
+        <pin num="2" name="AIN_2" type="passive"/>
+        <pin num="3" name="P1_6" type="passive"/>
+        <pin num="4" name="P1_7" type="passive"/>
+        <pin num="5" name="P4_4" type="passive"/>
+        <pin num="6" name="P4_5" type="passive"/>
+        <pin num="7" name="P4_6" type="passive"/>
+        <pin num="8" name="P4_7" type="passive"/>
+        <pin num="9" name="5V" type="passive"/>
+        <pin num="10" name="GND_1" type="passive"/>
+        <pin num="11" name="1.8V_1" type="passive"/>
+        <pin num="12" name="3.3V" type="passive"/>
+        <pin num="13" name="P0_7" type="passive"/>
+        <pin num="14" name="P0_6" type="passive"/>
+        <pin num="15" name="P0_5" type="passive"/>
+        <pin num="16" name="P0_4" type="passive"/>
+        <pin num="17" name="P0_3" type="passive"/>
+        <pin num="18" name="P0_2" type="passive"/>
+        <pin num="19" name="P0_1" type="passive"/>
+        <pin num="20" name="P0_0" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX4444ESE+" part="MAX4444ESE+">
+      <description>Differential-to-Single Receiver SOIC16</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-341081.pdf</docs>
+      <fields>
+        <field name="Reference">U10</field>
+        <field name="Value">MAX4444ESE</field>
+        <field name="Footprint">SOIC127P600X175-16N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-341081.pdf</field>
+        <field name="Description">Differential-to-Single Receiver SOIC16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX4444ESE+</field>
+        <field name="Mouser Part Number">700-MAX4444ESE</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4444ESE%2b?qs=LHmEVA8xxfawvSRfDBn%2F9g%3D%3D</field>
+        <field name="Arrow Part Number">MAX4444ESE+</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/max4444ese/maxim-integrated?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC_1" type="passive"/>
+        <pin num="2" name="VCC_2" type="passive"/>
+        <pin num="3" name="IN-" type="passive"/>
+        <pin num="4" name="N.C._1" type="passive"/>
+        <pin num="5" name="N.C._2" type="passive"/>
+        <pin num="6" name="IN+" type="passive"/>
+        <pin num="7" name="VEE_1" type="passive"/>
+        <pin num="8" name="VEE_2" type="passive"/>
+        <pin num="9" name="EN" type="passive"/>
+        <pin num="10" name="REF" type="passive"/>
+        <pin num="11" name="VEE_3" type="passive"/>
+        <pin num="12" name="VEE_4" type="passive"/>
+        <pin num="13" name="VEE_5" type="passive"/>
+        <pin num="14" name="VEE_6" type="passive"/>
+        <pin num="15" name="OUT" type="passive"/>
+        <pin num="16" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX8510EXK29T" part="MAX8510EXK29T">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">MAX8510EXK29T</field>
+        <field name="Footprint">SOT65P210X110-5N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="input"/>
+        <pin num="2" name="GND1" type="power_in"/>
+        <pin num="3" name="~{SHDN}1" type="bidirectional"/>
+        <pin num="4" name="BP1" type="bidirectional"/>
+        <pin num="5" name="OUT1" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="PEC02SAAN" part="PEC02SAAN">
+      <description>CONN HEADER VERT 2POS 2.54MM</description>
+      <fields>
+        <field name="Reference">Y?</field>
+        <field name="Value">RSX-5_16.368MHZ</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SAFFB1G57KE0F0A" part="SAFFB1G57KE0F0A">
+      <description>SAFFB1G57KE0F0A</description>
+      <docs>https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</docs>
+      <fields>
+        <field name="Reference">FL</field>
+        <field name="Value">SAFFB1G57KE0F0A</field>
+        <field name="Footprint">SAFFB1G57KE0F0A</field>
+        <field name="Datasheet">https://www.murata.com/products/productdata/8797690691614/DS-SAFFB1G57KE0F0A.pdf?1503459018000</field>
+        <field name="Description">SAFFB1G57KE0F0A</field>
+        <field name="Height">0.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SAFFB1G57KE0F0A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SF2208E" part="SF2208E">
+      <description>Signal Conditioning</description>
+      <docs>https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</docs>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">SF2208E</field>
+        <field name="Footprint">SF2208E</field>
+        <field name="Datasheet">https://www.murata.com/en-us/search/site/searchresult?intcid5=com_xxx_xxx_cmn_hd_xxx&amp;mss_query=SF2208E</field>
+        <field name="Description">Signal Conditioning</field>
+        <field name="Height">1.38</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">SF2208E</field>
+        <field name="Mouser Part Number">81-SF2208E</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/SF2208E?qs=qSfuJ%252Bfl%2Fd5ULbOrlSad1g%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CASE_GROUND_1" type="passive"/>
+        <pin num="2" name="INPUT" type="passive"/>
+        <pin num="3" name="CASE_GROUND_2" type="passive"/>
+        <pin num="4" name="CASE_GROUND_3" type="passive"/>
+        <pin num="5" name="OUTPUT" type="passive"/>
+        <pin num="6" name="CASE_GROUND_4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="142-0701-201">
+      <uri>C:/Users/timmy/Downloads/LIB_142-0701-201/142-0701-201/KiCad/142-0701-201.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MAX2771ETI_">
+      <uri>C:/Users/timmy/Downloads/MAX2771ETI_/MAX2771ETI_.kicad_sym</uri>
+    </library>
+    <library logical="MAX32625PICO#">
+      <uri>C:/Users/timmy/Downloads/LIB_MAX32625PICO#/MAX32625PICO#/KiCad/MAX32625PICO#.lib</uri>
+    </library>
+    <library logical="MAX4444ESE+">
+      <uri>C:/Users/timmy/Downloads/LIB_MAX4444ESE+/MAX4444ESE+/KiCad/MAX4444ESE+.lib</uri>
+    </library>
+    <library logical="MAX8510EXK29T">
+      <uri>C:/Users/timmy/Downloads/MAX8510EXK29T/MAX8510EXK29T.kicad_sym</uri>
+    </library>
+    <library logical="PEC02SAAN">
+      <uri>C:/Users/timmy/Downloads/LIB_PEC02SAAN/PEC02SAAN/KiCad/PEC02SAAN.lib</uri>
+    </library>
+    <library logical="SAFFB1G57KE0F0A">
+      <uri>C:/Users/timmy/Downloads/LIB_SAFFB1G57KE0F0A/SAFFB1G57KE0F0A/KiCad/SAFFB1G57KE0F0A.lib</uri>
+    </library>
+    <library logical="SF2208E">
+      <uri>C:/Users/timmy/Downloads/LIB_SF2208E/SF2208E/KiCad/SF2208E.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="C60" pin="1" pintype="passive"/>
+      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J28" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J29" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R57" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="VCC_1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VCC_2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="VCC_1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="VCC_2" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="VCC_1" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="VCC_2" pintype="passive"/>
+    </net>
+    <net code="2" name="-5V">
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="C55" pin="1" pintype="passive"/>
+      <node ref="C57" pin="1" pintype="passive"/>
+      <node ref="C61" pin="1" pintype="passive"/>
+      <node ref="C63" pin="1" pintype="passive"/>
+      <node ref="U10" pin="11" pinfunction="VEE_3" pintype="passive"/>
+      <node ref="U10" pin="12" pinfunction="VEE_4" pintype="passive"/>
+      <node ref="U10" pin="13" pinfunction="VEE_5" pintype="passive"/>
+      <node ref="U10" pin="14" pinfunction="VEE_6" pintype="passive"/>
+      <node ref="U10" pin="7" pinfunction="VEE_1" pintype="passive"/>
+      <node ref="U10" pin="8" pinfunction="VEE_2" pintype="passive"/>
+      <node ref="U8" pin="11" pinfunction="VEE_3" pintype="passive"/>
+      <node ref="U8" pin="12" pinfunction="VEE_4" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="VEE_5" pintype="passive"/>
+      <node ref="U8" pin="14" pinfunction="VEE_6" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="VEE_1" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="VEE_2" pintype="passive"/>
+      <node ref="U9" pin="11" pinfunction="VEE_3" pintype="passive"/>
+      <node ref="U9" pin="12" pinfunction="VEE_4" pintype="passive"/>
+      <node ref="U9" pin="13" pinfunction="VEE_5" pintype="passive"/>
+      <node ref="U9" pin="14" pinfunction="VEE_6" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="VEE_1" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="VEE_2" pintype="passive"/>
+    </net>
+    <net code="3" name="/3">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="XTAL" pintype="input"/>
+    </net>
+    <net code="4" name="/4">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="CLKOUT" pintype="output"/>
+    </net>
+    <net code="5" name="/5">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="ADC_CLKIN" pintype="input"/>
+    </net>
+    <net code="6" name="/10">
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="7" name="/11">
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="8" name="/12">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="I0" pintype="output"/>
+    </net>
+    <net code="9" name="/13">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="I1" pintype="output"/>
+    </net>
+    <net code="10" name="/15">
+      <node ref="C59" pin="1" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="ANAIPOUT" pintype="output"/>
+    </net>
+    <net code="11" name="/16">
+      <node ref="C58" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="ANAINOUT" pintype="output"/>
+    </net>
+    <net code="12" name="/19">
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="LNAIN_HI" pintype="input"/>
+    </net>
+    <net code="13" name="/20">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="LNAIN_LO" pintype="input"/>
+    </net>
+    <net code="14" name="/23">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="LNAOUT_LO" pintype="output"/>
+    </net>
+    <net code="15" name="/24">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="LNAOUT_HI" pintype="output"/>
+    </net>
+    <net code="16" name="/25">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="MIXIN_HI" pintype="input"/>
+    </net>
+    <net code="17" name="/26">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="MIXIN_LO" pintype="input"/>
+    </net>
+    <net code="18" name="/CLK_OUT">
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="19" name="/Connection headers/~{SHDN}2">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="~{SHDN}1" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="~{SHDN}2" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/I0_TO_HOST">
+      <node ref="J27" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U11" pin="6" pinfunction="P4_5" pintype="passive"/>
+    </net>
+    <net code="21" name="/I1_TO_HOST">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U11" pin="7" pinfunction="P4_6" pintype="passive"/>
+    </net>
+    <net code="22" name="/Q0_TO_HOST">
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="U11" pin="20" pinfunction="P0_0" pintype="passive"/>
+    </net>
+    <net code="23" name="/Q1_TO_HOST">
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U11" pin="19" pinfunction="P0_1" pintype="passive"/>
+    </net>
+    <net code="24" name="/SHDN">
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="SHDN" pintype="input"/>
+      <node ref="U11" pin="17" pinfunction="P0_3" pintype="passive"/>
+    </net>
+    <net code="25" name="/SPI_CLK">
+      <node ref="U1" pin="8" pinfunction="SCLK" pintype="input"/>
+      <node ref="U11" pin="13" pinfunction="P0_7" pintype="passive"/>
+    </net>
+    <net code="26" name="/SPI_CSN">
+      <node ref="U1" pin="9" pinfunction="CSN" pintype="input"/>
+      <node ref="U11" pin="14" pinfunction="P0_6" pintype="passive"/>
+    </net>
+    <net code="27" name="/SPI_DATA">
+      <node ref="U1" pin="7" pinfunction="SDATA" pintype="bidirectional"/>
+      <node ref="U11" pin="16" pinfunction="P0_4" pintype="passive"/>
+    </net>
+    <net code="28" name="/SPI_SS">
+      <node ref="U11" pin="4" pinfunction="P1_7" pintype="passive"/>
+      <node ref="U11" pin="8" pinfunction="P4_7" pintype="passive"/>
+    </net>
+    <net code="29" name="/VCC_ADC">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCCADC" pintype="power_in"/>
+    </net>
+    <net code="30" name="/VCC_CP">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VCCCP" pintype="power_in"/>
+    </net>
+    <net code="31" name="/VCC_D">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VCCD" pintype="power_in"/>
+    </net>
+    <net code="32" name="/VCC_IF">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="J20" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="VCCIF" pintype="power_in"/>
+    </net>
+    <net code="33" name="/VCC_IO">
+      <node ref="J24" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="AIN_0" pintype="passive"/>
+    </net>
+    <net code="34" name="/VCC_RF">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="J21" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="VCCRF" pintype="power_in"/>
+    </net>
+    <net code="35" name="/VCC_VCO">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="J19" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="VCCVCO" pintype="power_in"/>
+    </net>
+    <net code="36" name="CLK_OUT">
+      <node ref="J26" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="37" name="Earth">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="C55" pin="2" pintype="passive"/>
+      <node ref="C56" pin="2" pintype="passive"/>
+      <node ref="C57" pin="2" pintype="passive"/>
+      <node ref="C60" pin="2" pintype="passive"/>
+      <node ref="C61" pin="2" pintype="passive"/>
+      <node ref="C62" pin="2" pintype="passive"/>
+      <node ref="C63" pin="2" pintype="passive"/>
+      <node ref="C64" pin="2" pintype="passive"/>
+      <node ref="C65" pin="2" pintype="passive"/>
+      <node ref="C66" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J12" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J12" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J12" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J16" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J25" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J26" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J26" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J26" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J26" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J8" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="T1" pin="6" pintype="passive"/>
+      <node ref="T2" pin="6" pintype="passive"/>
+      <node ref="T3" pin="6" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="EP" pintype="power_in"/>
+      <node ref="U10" pin="10" pinfunction="REF" pintype="passive"/>
+      <node ref="U10" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="U11" pin="10" pinfunction="GND_1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="CASE_GROUND_1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="CASE_GROUND_2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="CASE_GROUND_3" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="CASE_GROUND_4" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="CASE_GROUND_1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="CASE_GROUND_2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="CASE_GROUND_3" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="CASE_GROUND_4" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U8" pin="10" pinfunction="REF" pintype="passive"/>
+      <node ref="U8" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="U9" pin="10" pinfunction="REF" pintype="passive"/>
+      <node ref="U9" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="Y1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y2" pin="3" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="38" name="I0_TO_HEADER">
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="I1_TO_HEADER">
+      <node ref="J26" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="LD_TO_HOST">
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="LD" pintype="output"/>
+      <node ref="U11" pin="18" pinfunction="P0_2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C64" pin="1" pintype="passive"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="6" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="INPUT" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="57" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="BP1" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(C25-Pad1)">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="59" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="BP2" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(C28-Pad1)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(C29-Pad2)">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(C33-Pad2)">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="R61" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CPOUT" pintype="output"/>
+    </net>
+    <net code="66" name="Net-(C34-Pad2)">
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(C35-Pad2)">
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R62" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(C37-Pad2)">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(C38-Pad1)">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R67" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(C39-Pad1)">
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+      <node ref="R68" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(C40-Pad2)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="R68" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(C41-Pad1)">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="IN1" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(C46-Pad1)">
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(C46-Pad2)">
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="R63" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(C47-Pad1)">
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(C47-Pad2)">
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(C50-Pad1)">
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(C52-Pad1)">
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(C52-Pad2)">
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="R69" pin="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(C53-Pad1)">
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(C53-Pad2)">
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="R70" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(C56-Pad1)">
+      <node ref="C56" pin="1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+      <node ref="U9" pin="9" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(C58-Pad2)">
+      <node ref="C58" pin="2" pintype="passive"/>
+      <node ref="R72" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(C59-Pad2)">
+      <node ref="C59" pin="2" pintype="passive"/>
+      <node ref="R73" pin="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(C62-Pad1)">
+      <node ref="C62" pin="1" pintype="passive"/>
+      <node ref="R57" pin="2" pintype="passive"/>
+      <node ref="U10" pin="9" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(C65-Pad1)">
+      <node ref="C65" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(C66-Pad1)">
+      <node ref="C66" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R66" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+      <node ref="R75" pin="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+      <node ref="R76" pin="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(J17-Pad1)">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(J22-Pad1)">
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(J27-Pad2)">
+      <node ref="J27" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="P4_4" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="INPUT" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="IN-" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="IN+" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="T1" pin="4" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(R52-Pad2)">
+      <node ref="R52" pin="2" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="IN-" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(R53-Pad2)">
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="U9" pin="6" pinfunction="IN+" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(R55-Pad2)">
+      <node ref="R55" pin="2" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="IN-" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(R56-Pad2)">
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="IN+" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(R58-Pad1)">
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="T2" pin="4" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(R59-Pad1)">
+      <node ref="R59" pin="1" pintype="passive"/>
+      <node ref="T3" pin="4" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+      <node ref="T1" pin="3" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2" pintype="passive"/>
+      <node ref="R65" pin="2" pintype="passive"/>
+      <node ref="T1" pin="1" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(R66-Pad1)">
+      <node ref="R66" pin="1" pintype="passive"/>
+      <node ref="U8" pin="15" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(R69-Pad2)">
+      <node ref="R69" pin="2" pintype="passive"/>
+      <node ref="R71" pin="1" pintype="passive"/>
+      <node ref="T2" pin="3" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(R70-Pad2)">
+      <node ref="R70" pin="2" pintype="passive"/>
+      <node ref="R71" pin="2" pintype="passive"/>
+      <node ref="T2" pin="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(R72-Pad2)">
+      <node ref="R72" pin="2" pintype="passive"/>
+      <node ref="R74" pin="1" pintype="passive"/>
+      <node ref="T3" pin="3" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(R73-Pad2)">
+      <node ref="R73" pin="2" pintype="passive"/>
+      <node ref="R74" pin="2" pintype="passive"/>
+      <node ref="T3" pin="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(R75-Pad1)">
+      <node ref="R75" pin="1" pintype="passive"/>
+      <node ref="U9" pin="15" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(R76-Pad1)">
+      <node ref="R76" pin="1" pintype="passive"/>
+      <node ref="U10" pin="15" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(U5-Pad1)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Q0_TO_HEADER">
+      <node ref="J26" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+    </net>
+    <net code="119" name="Q1_TO_HEADER">
+      <node ref="J26" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+    </net>
+    <net code="120" name="VCC_TCXO">
+      <node ref="J23" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(T1-Pad2)">
+      <node ref="T1" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(T1-Pad5)">
+      <node ref="T1" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(T2-Pad2)">
+      <node ref="T2" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(T2-Pad5)">
+      <node ref="T2" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(T3-Pad2)">
+      <node ref="T3" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(T3-Pad5)">
+      <node ref="T3" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U8-Pad4)">
+      <node ref="U8" pin="4" pinfunction="N.C._1" pintype="passive+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U8-Pad5)">
+      <node ref="U8" pin="5" pinfunction="N.C._2" pintype="passive+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U9-Pad4)">
+      <node ref="U9" pin="4" pinfunction="N.C._1" pintype="passive+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U9-Pad5)">
+      <node ref="U9" pin="5" pinfunction="N.C._2" pintype="passive+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U10-Pad4)">
+      <node ref="U10" pin="4" pinfunction="N.C._1" pintype="passive+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U10-Pad5)">
+      <node ref="U10" pin="5" pinfunction="N.C._2" pintype="passive+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U11-Pad2)">
+      <node ref="U11" pin="2" pinfunction="AIN_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U11-Pad3)">
+      <node ref="U11" pin="3" pinfunction="P1_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U11-Pad9)">
+      <node ref="U11" pin="9" pinfunction="5V" pintype="passive+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U11-Pad11)">
+      <node ref="U11" pin="11" pinfunction="1.8V_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U11-Pad12)">
+      <node ref="U11" pin="12" pinfunction="3.3V" pintype="passive+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U11-Pad15)">
+      <node ref="U11" pin="15" pinfunction="P0_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(Y1-Pad2)">
+      <node ref="Y1" pin="2" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(Y1-Pad5)">
+      <node ref="Y1" pin="5" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
